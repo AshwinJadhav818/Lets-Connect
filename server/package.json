@@ -1,0 +1,11 @@
+{
+  "name": "lets-connect-server",
+  "version": "1.0.0",
+  "description": "This is the REST API for Lets Connect App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash All-Rounder",
+  "license": "ISC"
+}
